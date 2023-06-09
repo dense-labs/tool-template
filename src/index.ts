@@ -1,2 +1,2 @@
 // 入口
-console.log('hello world');
+console.log('main');
